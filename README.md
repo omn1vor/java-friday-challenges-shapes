@@ -1,5 +1,5 @@
 # Shapes (a Java Friday Challenge project)
-A program that determines if several shapes form single new shape or not.
+A program that checks if a complex shape made up of simple shapes presents a single-connected shape.
 
 Java Challenge 22
 Write a Java program that accepts input of simple shapes in a human readable text file, including rectangles, squares and circles. The program should check if a complex shape made up of these simple shapes presents a single-connected shape and, if yes, calculate its area and perimeter.
