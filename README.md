@@ -1,4 +1,4 @@
-# java-friday-challenges-shapes
+#Shapes (a Java Friday Challenge project)
 A program that determines if several shapes form single new shape or not.
 
 Java Challenge 22
