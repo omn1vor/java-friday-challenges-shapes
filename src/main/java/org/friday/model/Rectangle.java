@@ -62,7 +62,7 @@ public class Rectangle extends Shape implements Drawable {
         String[] args = matcher.group(1).split(",");
 
         if (args.length != 4) {
-            throw new IllegalArgumentException("expect 4 parameters for rectangle");
+            throw new IllegalArgumentException("expected 4 parameters for rectangle");
         }
 
         return new Rectangle(

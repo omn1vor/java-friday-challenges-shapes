@@ -39,7 +39,7 @@ public class CLI {
             try {
                 shapes.add(Shape.parse(input));
             } catch (NumberFormatException e) {
-                System.out.println("Expecting only number as parameters for shapes. " + e.getMessage());
+                System.out.println("Expected only numbers as parameters for shapes. " + e.getMessage());
             } catch (IllegalArgumentException e) {
                 System.out.println(e.getMessage());
             }

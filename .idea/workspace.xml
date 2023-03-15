@@ -5,26 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a91fcec5-c2a0-4899-9719-4ff05b665e0a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/friday/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/friday/controller/CLI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/friday/model/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/friday/model/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/friday/model/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/friday/model/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/friday/model/ShapeResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/friday/model/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/friday/view/DrawVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/friday/view/Drawable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/friday/view/ShapeView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/friday/view/SwingDrawVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/friday/view/SwingShapeView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/friday/model/ShapeResolverTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/friday/controller/CLI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/friday/controller/CLI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/friday/model/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/friday/model/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/friday/model/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/friday/model/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/friday/model/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/friday/model/Square.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

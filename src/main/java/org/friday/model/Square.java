@@ -60,7 +60,7 @@ public class Square extends Shape implements Drawable {
         String[] args = matcher.group(1).split(",");
 
         if (args.length != 3) {
-            throw new IllegalArgumentException("expect 3 parameters for square");
+            throw new IllegalArgumentException("expected 3 parameters for square");
         }
 
         return new Square(
